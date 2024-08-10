@@ -1,5 +1,5 @@
 No-Code AI with CrewAI: Multi-Agent System 2 Thinking
-This repository contains a no-code AI application built using CrewAI. The AI leverages multiple agents and incorporates System 2 thinking to achieve [brief description of your AI's purpose].
+This repository contains a no-code AI application built using CrewAI. The AI leverages multiple agents and incorporates System 2 thinking to achieve Imaginative Thinking
 
 Key Features
 Multi-Agent Architecture: Employs multiple CrewAI agents working together for enhanced capabilities and decision-making.
